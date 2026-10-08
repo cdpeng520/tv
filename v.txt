@@ -131,7 +131,19 @@ CGTN西班牙语,http://36.158.166.3:8089/180000001002/0000000100000000007100000
 康巴卫视,http://39.134.65.194/PLTV/88888888/224/3221225527/1.m3u8
 三沙卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/index.m3u8?
 
-卡通其他,#genre#
+电影卡通,#genre#
+刘德华电影,https://live.metshop.top/huya/11342424
+周星驰电影,https://live.metshop.top/huya/11342412
+古天乐电影,https://live.metshop.top/huya/29982675
+成龙电影,https://live.metshop.top/huya/11342386
+功夫电影https://live.metshop.top/huya/11352941
+李连杰电影,https://live.metshop.top/huya/11342390
+林正英电,https://live.metshop.top/huya/11342421
+武侠电影,https://live.metshop.top/huya/11342427
+沈腾电影,https://live.metshop.top/huya/11601968
+枪战电影,https://live.metshop.top/huya/21059579
+王晶电影,https://live.metshop.top/huya/11602058
+甄子丹电影,https://live.metshop.top/huya/11352935
 金鹰卡通,http://39.134.242.92:80/180000001002/00000001000000000007000000001247/main.m3u8
 卡酷动画,http://39.134.242.92:80/180000001002/00000001000000000090000000215608/main.m3u8
 黑莓动画,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=2
